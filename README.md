@@ -43,13 +43,13 @@ and create a report for them and so on), following OOP system design principles.
  ## How to run it 
 1.Clone this project as follows:
 
-    `git clone https://github.com/ynam-fo-eno/cyberpro-group-one-ids-project`
+    git clone https://github.com/ynam-fo-eno/cyberpro-group-one-ids-project
 
 
 2.Use these commands in your ROOT directory (like don't be in the utils or driver_files folder plz! ) to:
 A. Make the log file your IDS will read from:
 
-    `py -m driver_files.log_generator`
+    py -m driver_files.log_generator
    
 (It's worth noting that now that almost every file is in its own subfolder, the -m flag is needed so your interpreter knows to coalesce ALL your
 subfolders and respective Python code as one project. Without it, chances are it'll fail even tho the code would work well otherwise.)
@@ -57,7 +57,7 @@ subfolders and respective Python code as one project. Without it, chances are it
 
 B. Make the IDS make the alerts on the console and even send the listed emails receive said alerts:
 
-    `py main.py`
+    py main.py
     
 
 
