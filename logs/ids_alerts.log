@@ -1,0 +1,84 @@
+=== IDS Alert Log Started ===
+
+[HIGH] 2026-04-11 13:20:42 | Possible Brute-Force Attack detected from 192.168.0.21! 5 failed attempts in Last 2 minutes.  | IP: 192.168.0.21
+[HIGH] 2026-04-11 13:20:56 | Threat detected from 192.168.0.21 | IP: 192.168.0.21
+[HIGH] 2026-04-11 13:20:56 | Possible Brute-Force Attack detected from 192.168.0.21! 5 failed attempts in Last 2 minutes.  | IP: 192.168.0.21
+[HIGH] 2026-04-11 13:20:56 | Threat detected from 192.168.0.21 | IP: 192.168.0.21
+[HIGH] 2026-04-11 13:20:56 | Possible Brute-Force Attack detected from 192.168.0.21! 5 failed attempts in Last 2 minutes.  | IP: 192.168.0.21
+[HIGH] 2026-04-11 13:20:56 | Threat detected from 192.168.0.21 | IP: 192.168.0.21
+[HIGH] 2026-04-11 13:20:56 | Possible Brute-Force Attack detected from 192.168.0.21! 5 failed attempts in Last 2 minutes.  | IP: 192.168.0.21
+[HIGH] 2026-04-11 13:20:56 | Threat detected from 192.168.0.21 | IP: 192.168.0.21
+[HIGH] 2026-04-11 13:20:56 | Possible Brute-Force Attack detected from 192.168.0.21! 6 failed attempts in Last 2 minutes.  | IP: 192.168.0.21
+[HIGH] 2026-04-11 13:20:56 | Threat detected from 192.168.0.21 | IP: 192.168.0.21
+[HIGH] 2026-04-11 13:20:56 | Possible Brute-Force Attack detected from 192.168.0.21! 7 failed attempts in Last 2 minutes.  | IP: 192.168.0.21
+[HIGH] 2026-04-11 13:20:56 | Threat detected from 192.168.0.21 | IP: 192.168.0.21
+[HIGH] 2026-04-11 13:20:56 | Possible Brute-Force Attack detected from 192.168.0.21! 5 failed attempts in Last 2 minutes.  | IP: 192.168.0.21
+[HIGH] 2026-04-11 13:20:56 | Threat detected from 192.168.0.21 | IP: 192.168.0.21
+[HIGH] 2026-04-11 13:20:56 | Possible Brute-Force Attack detected from 192.168.0.21! 5 failed attempts in Last 2 minutes.  | IP: 192.168.0.21
+[HIGH] 2026-04-11 13:20:56 | Threat detected from 192.168.0.21 | IP: 192.168.0.21
+[HIGH] 2026-04-11 13:20:56 | Possible Brute-Force Attack detected from 192.168.0.21! 5 failed attempts in Last 2 minutes.  | IP: 192.168.0.21
+[HIGH] 2026-04-11 13:20:56 | Threat detected from 192.168.0.21 | IP: 192.168.0.21
+[HIGH] 2026-04-11 13:20:56 | Possible Brute-Force Attack detected from 192.168.0.21! 5 failed attempts in Last 2 minutes.  | IP: 192.168.0.21
+[HIGH] 2026-04-11 13:20:56 | Threat detected from 192.168.0.21 | IP: 192.168.0.21
+[HIGH] 2026-04-11 13:20:56 | Possible Brute-Force Attack detected from 192.168.0.21! 6 failed attempts in Last 2 minutes.  | IP: 192.168.0.21
+[HIGH] 2026-04-11 13:20:56 | Threat detected from 192.168.0.21 | IP: 192.168.0.21
+[HIGH] 2026-04-11 13:20:56 | Possible Brute-Force Attack detected from 192.168.0.21! 6 failed attempts in Last 2 minutes.  | IP: 192.168.0.21
+[HIGH] 2026-04-11 13:20:56 | Threat detected from 192.168.0.21 | IP: 192.168.0.21
+[HIGH] 2026-04-11 13:20:56 | Possible Brute-Force Attack detected from 192.168.0.21! 7 failed attempts in Last 2 minutes.  | IP: 192.168.0.21
+[HIGH] 2026-04-11 13:20:56 | Threat detected from 192.168.0.21 | IP: 192.168.0.21
+[HIGH] 2026-04-11 13:20:56 | Threat detected from 192.168.0.21 | IP: 192.168.0.21
+[HIGH] 2026-04-11 13:20:56 | Threat detected from 192.168.0.21 | IP: 192.168.0.21
+[HIGH] 2026-04-11 13:20:56 | Threat detected from 192.168.0.21 | IP: 192.168.0.21
+[HIGH] 2026-04-11 13:20:56 | Threat detected from 192.168.0.21 | IP: 192.168.0.21
+[HIGH] 2026-04-11 13:20:56 | Threat detected from 192.168.0.21 | IP: 192.168.0.21
+[HIGH] 2026-04-11 13:20:56 | Possible Brute-Force Attack detected from 192.168.0.21! 5 failed attempts in Last 2 minutes.  | IP: 192.168.0.21
+[HIGH] 2026-04-11 13:20:56 | Threat detected from 192.168.0.21 | IP: 192.168.0.21
+[HIGH] 2026-04-11 13:20:56 | Possible Brute-Force Attack detected from 192.168.0.21! 6 failed attempts in Last 2 minutes.  | IP: 192.168.0.21
+[HIGH] 2026-04-11 13:20:56 | Threat detected from 192.168.0.21 | IP: 192.168.0.21
+[HIGH] 2026-04-11 13:20:56 | Possible Brute-Force Attack detected from 192.168.0.21! 7 failed attempts in Last 2 minutes.  | IP: 192.168.0.21
+[HIGH] 2026-04-11 13:20:56 | Threat detected from 192.168.0.21 | IP: 192.168.0.21
+[HIGH] 2026-04-11 13:20:56 | Threat detected from 192.168.0.21 | IP: 192.168.0.21
+[HIGH] 2026-04-11 13:20:56 | Threat detected from 192.168.0.21 | IP: 192.168.0.21
+[HIGH] 2026-04-11 13:20:56 | Threat detected from 192.168.0.21 | IP: 192.168.0.21
+[HIGH] 2026-04-11 13:20:56 | Threat detected from 192.168.0.21 | IP: 192.168.0.21
+[HIGH] 2026-04-11 13:20:56 | Possible Brute-Force Attack detected from 192.168.0.21! 5 failed attempts in Last 2 minutes.  | IP: 192.168.0.21
+[HIGH] 2026-04-11 13:20:56 | Threat detected from 192.168.0.21 | IP: 192.168.0.21
+[HIGH] 2026-04-11 13:20:56 | Possible Brute-Force Attack detected from 192.168.0.21! 6 failed attempts in Last 2 minutes.  | IP: 192.168.0.21
+[HIGH] 2026-04-11 13:20:56 | Threat detected from 192.168.0.21 | IP: 192.168.0.21
+[HIGH] 2026-04-11 13:20:56 | Possible Brute-Force Attack detected from 192.168.0.21! 7 failed attempts in Last 2 minutes.  | IP: 192.168.0.21
+[HIGH] 2026-04-11 13:20:56 | Threat detected from 192.168.0.21 | IP: 192.168.0.21
+[HIGH] 2026-04-11 13:20:56 | Threat detected from 192.168.0.21 | IP: 192.168.0.21
+[HIGH] 2026-04-11 13:20:56 | Threat detected from 192.168.0.21 | IP: 192.168.0.21
+[HIGH] 2026-04-11 13:20:56 | Threat detected from 192.168.0.21 | IP: 192.168.0.21
+[HIGH] 2026-04-11 13:20:56 | Threat detected from 192.168.0.21 | IP: 192.168.0.21
+[HIGH] 2026-04-11 13:20:56 | Possible Brute-Force Attack detected from 192.168.0.21! 5 failed attempts in Last 2 minutes.  | IP: 192.168.0.21
+[HIGH] 2026-04-11 13:20:56 | Threat detected from 192.168.0.21 | IP: 192.168.0.21
+[HIGH] 2026-04-11 13:20:56 | Possible Brute-Force Attack detected from 192.168.0.21! 6 failed attempts in Last 2 minutes.  | IP: 192.168.0.21
+[HIGH] 2026-04-11 13:20:56 | Threat detected from 192.168.0.21 | IP: 192.168.0.21
+[HIGH] 2026-04-11 13:20:56 | Possible Brute-Force Attack detected from 192.168.0.21! 7 failed attempts in Last 2 minutes.  | IP: 192.168.0.21
+[HIGH] 2026-04-11 13:20:56 | Threat detected from 192.168.0.21 | IP: 192.168.0.21
+[HIGH] 2026-04-11 13:20:56 | Threat detected from 192.168.0.21 | IP: 192.168.0.21
+[HIGH] 2026-04-11 13:20:56 | Threat detected from 192.168.0.21 | IP: 192.168.0.21
+[HIGH] 2026-04-11 13:20:56 | Threat detected from 192.168.0.21 | IP: 192.168.0.21
+[HIGH] 2026-04-11 13:20:56 | Threat detected from 192.168.0.21 | IP: 192.168.0.21
+[HIGH] 2026-04-11 13:20:56 | Threat detected from 192.168.0.21 | IP: 192.168.0.21
+[HIGH] 2026-04-11 13:20:56 | Threat detected from 192.168.0.21 | IP: 192.168.0.21
+[HIGH] 2026-04-11 13:20:56 | Threat detected from 192.168.0.21 | IP: 192.168.0.21
+[HIGH] 2026-04-11 13:20:56 | Threat detected from 192.168.0.21 | IP: 192.168.0.21
+[HIGH] 2026-04-11 13:20:56 | Threat detected from 192.168.0.21 | IP: 192.168.0.21
+[HIGH] 2026-04-11 13:20:56 | Threat detected from 192.168.0.21 | IP: 192.168.0.21
+[HIGH] 2026-04-11 13:20:56 | Threat detected from 192.168.0.21 | IP: 192.168.0.21
+[HIGH] 2026-04-11 13:20:56 | Threat detected from 192.168.0.21 | IP: 192.168.0.21
+[HIGH] 2026-04-11 13:20:56 | Threat detected from 192.168.0.21 | IP: 192.168.0.21
+[HIGH] 2026-04-11 13:20:56 | Threat detected from 192.168.0.21 | IP: 192.168.0.21
+[HIGH] 2026-04-11 13:20:56 | Threat detected from 192.168.0.21 | IP: 192.168.0.21
+[HIGH] 2026-04-11 13:20:56 | Threat detected from 192.168.0.21 | IP: 192.168.0.21
+[HIGH] 2026-04-11 13:20:56 | Possible Brute-Force Attack detected from 192.168.0.21! 5 failed attempts in Last 2 minutes.  | IP: 192.168.0.21
+[HIGH] 2026-04-11 13:20:56 | Threat detected from 192.168.0.21 | IP: 192.168.0.21
+[HIGH] 2026-04-11 13:20:56 | Possible Brute-Force Attack detected from 192.168.0.21! 6 failed attempts in Last 2 minutes.  | IP: 192.168.0.21
+[HIGH] 2026-04-11 13:20:56 | Threat detected from 192.168.0.21 | IP: 192.168.0.21
+[HIGH] 2026-04-11 13:20:56 | Threat detected from 192.168.0.21 | IP: 192.168.0.21
+[HIGH] 2026-04-11 13:20:56 | Threat detected from 192.168.0.21 | IP: 192.168.0.21
+[HIGH] 2026-04-11 13:20:56 | Threat detected from 192.168.0.21 | IP: 192.168.0.21
+[HIGH] 2026-04-11 13:20:56 | Threat detected from 192.168.0.21 | IP: 192.168.0.21
+[HIGH] 2026-04-11 13:20:56 | Threat detected from 192.168.0.21 | IP: 192.168.0.21

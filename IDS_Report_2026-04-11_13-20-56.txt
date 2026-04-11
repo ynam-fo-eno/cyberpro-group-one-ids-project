@@ -1,0 +1,14 @@
+======================================================================
+📊 ADVANCED IDS FINAL REPORT
+======================================================================
+Report Generated: 2026-04-11 13:20:56
+Total log entries processed: 200
+Total suspicious incidents: 58
+
+Top Offending IPs (Ranked by Total Activity):
+--------------------------------------------------
+ 1. 192.168.0.21    | Total:  95 | Failed:  4 | Type: HIGH VOLUME
+ 2. 10.0.0.5        | Total:  28 | Failed:  2 | Type: NONE
+ 3. 192.168.1.100   | Total:  21 | Failed:  1 | Type: NONE
+ 4. 172.16.0.1      | Total:  19 | Failed:  1 | Type: NONE
+ 5. 203.0.113.45    | Total:  19 | Failed:  1 | Type: NONE
