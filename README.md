@@ -6,7 +6,7 @@ system entirely in python and using various handy libraries such as timedelta
 and datetime to handle getting the date and time for all the logs cleanly.
 
 
- ## contributors
+ ## Contributors
 1. Churchill Wasike -
 
 2. Dianah Nturibi -
@@ -42,7 +42,7 @@ and create a report for them and so on), following OOP system design principles.
 
  ## How to run it 
 1.Clone this project as follows:
-    `git clone https://github.com/ynam-fo-eno/cyberpro-group-one-ids-project`
+    git clone https://github.com/ynam-fo-eno/cyberpro-group-one-ids-project
 
 
 2.Use these commands in your ROOT directory (like don't be in the utils or driver_files folder plz! ) to:
