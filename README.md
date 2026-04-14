@@ -2,20 +2,27 @@
 Created in April 2026, this may be considered the capstone project done by the 
 five great gentlemen and ladies to sum up what we were taught- and indeed what
 we researched on our own- to make a simple but effective intrusion detection
-system entirely in python and using various handy libraries such as timedelta
+system entirely in Python and using various handy libraries such as timedelta
 and datetime to handle getting the date and time for all the logs cleanly.
 
 
  ## Contributors
-1. Churchill Wasike -
+1. Churchill Wasike - Created the  module **config.py**, whose global variables were 
+   usable by all other modules without rewriting them constantly.
 
-2. Dianah Nturibi -
+2. Dianah Nturibi - Consolidated the workings of all the other files into the
+   **ids_engine.py** and made one of the detectors, **brute_force.py**
     
-3. Elvin Nyamoita-
+3. Elvin Nyamoita- Made running the program after making logs using **main.py**
     
-4. Shaltone Rimba Otieno - 
+4. Shaltone Rimba Otieno - Created the **log_generator.py** which is essential 
+   for giving the IDS data to check and generate a report on. Of course, there's
+   also a contigency for warning a user to make logs first if they don't but still
+   is better to make logs to potentially alert a user on.
     
-5. Timothy Mwenda -
+5. Timothy Mwenda - Created the email method inn**logger.py**  and the other 
+   detector module, **suspect_activity.py**. Also made all the packages the 
+   project is in right now (config, detectors, driver_files and utils).
 
 
 ## This project will achieve the following:
@@ -51,7 +58,7 @@ A. Make the log file your IDS will read from:
 
     py -m driver_files.log_generator
    
-(It's worth noting that now that almost every file is in its own subfolder, the -m flag is needed so your interpreter knows to coalesce ALL your
+(It's worth noting that now that almost every file is in its own subfolder, the -m flag is needed so your Python interpreter knows to coalesce ALL your
 subfolders and respective Python code as one project. Without it, chances are it'll fail even tho the code would work well otherwise.)
 
 
